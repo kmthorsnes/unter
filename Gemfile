@@ -12,7 +12,6 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'coveralls', require: false
 
 group :development, :test do
   gem 'cucumber-rails', require: false
@@ -22,6 +21,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'rspec-rails'
   gem 'shoulda-matchers'
+  gem 'coveralls', require: false
 end
 
 group :development do
