@@ -1,6 +1,20 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/kalle/craftacademy/week9/unter/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/kalle/craftacademy/week9/unter/app/controllers/welcome_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/kalle/craftacademy/week9/unter/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
       "/Users/kalle/craftacademy/week9/unter/app/mailers/application_mailer.rb": [
         0,
         0,
@@ -13,20 +27,6 @@
         0
       ],
       "/Users/kalle/craftacademy/week9/unter/app/jobs/application_job.rb": [
-        0,
-        0
-      ],
-      "/Users/kalle/craftacademy/week9/unter/app/controllers/application_controller.rb": [
-        0,
-        0
-      ],
-      "/Users/kalle/craftacademy/week9/unter/app/controllers/welcome_controller.rb": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "/Users/kalle/craftacademy/week9/unter/app/helpers/application_helper.rb": [
         0,
         0
       ],
@@ -43,7 +43,7 @@
         0
       ]
     },
-    "timestamp": 1521986026
+    "timestamp": 1521987128
   },
   "Cucumber Features": {
     "coverage": {
